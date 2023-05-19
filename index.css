@@ -1,0 +1,31 @@
+.dis{
+    height: 200px;
+    border: 1px solid black;
+    width:400px;
+    background-color: aliceblue;
+    border-radius: 5%;
+    text-align: center;
+    padding-top:50px;
+    
+}
+.mic{
+    margin:20px;
+}
+.search{
+    margin-left:0px;
+    height:34px;
+    margin-top: 20px;
+    border-radius: 20%;
+}
+.input{
+    margin-top:20px;
+    height:34px;
+}
+.container{
+    display:flex;
+    justify-content:center;
+}
+.h1{
+    margin-left: 80px;
+    text-decoration: underline;
+}
